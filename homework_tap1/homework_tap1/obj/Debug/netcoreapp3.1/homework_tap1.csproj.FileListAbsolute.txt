@@ -1,0 +1,13 @@
+C:\Users\Hesen\Desktop\CODE_ACADEMY_TAP1\homework_tap1\homework_tap1\bin\Debug\netcoreapp3.1\homework_tap1.exe
+C:\Users\Hesen\Desktop\CODE_ACADEMY_TAP1\homework_tap1\homework_tap1\bin\Debug\netcoreapp3.1\homework_tap1.deps.json
+C:\Users\Hesen\Desktop\CODE_ACADEMY_TAP1\homework_tap1\homework_tap1\bin\Debug\netcoreapp3.1\homework_tap1.runtimeconfig.json
+C:\Users\Hesen\Desktop\CODE_ACADEMY_TAP1\homework_tap1\homework_tap1\bin\Debug\netcoreapp3.1\homework_tap1.runtimeconfig.dev.json
+C:\Users\Hesen\Desktop\CODE_ACADEMY_TAP1\homework_tap1\homework_tap1\bin\Debug\netcoreapp3.1\homework_tap1.dll
+C:\Users\Hesen\Desktop\CODE_ACADEMY_TAP1\homework_tap1\homework_tap1\bin\Debug\netcoreapp3.1\homework_tap1.pdb
+C:\Users\Hesen\Desktop\CODE_ACADEMY_TAP1\homework_tap1\homework_tap1\obj\Debug\netcoreapp3.1\homework_tap1.csprojAssemblyReference.cache
+C:\Users\Hesen\Desktop\CODE_ACADEMY_TAP1\homework_tap1\homework_tap1\obj\Debug\netcoreapp3.1\homework_tap1.AssemblyInfoInputs.cache
+C:\Users\Hesen\Desktop\CODE_ACADEMY_TAP1\homework_tap1\homework_tap1\obj\Debug\netcoreapp3.1\homework_tap1.AssemblyInfo.cs
+C:\Users\Hesen\Desktop\CODE_ACADEMY_TAP1\homework_tap1\homework_tap1\obj\Debug\netcoreapp3.1\homework_tap1.csproj.CoreCompileInputs.cache
+C:\Users\Hesen\Desktop\CODE_ACADEMY_TAP1\homework_tap1\homework_tap1\obj\Debug\netcoreapp3.1\homework_tap1.dll
+C:\Users\Hesen\Desktop\CODE_ACADEMY_TAP1\homework_tap1\homework_tap1\obj\Debug\netcoreapp3.1\homework_tap1.pdb
+C:\Users\Hesen\Desktop\CODE_ACADEMY_TAP1\homework_tap1\homework_tap1\obj\Debug\netcoreapp3.1\homework_tap1.genruntimeconfig.cache
